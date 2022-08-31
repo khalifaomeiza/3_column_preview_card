@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://your-solution-url.com](https://khalifaomeiza.github.io/3_column_preview_card/)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 
