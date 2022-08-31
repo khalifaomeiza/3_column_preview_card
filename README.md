@@ -37,7 +37,7 @@ Users should be able to:
 ### Links
 
 - Solution URL:(https://github.com/khalifaomeiza/3_column_preview_card.git)
-- Live Site URL:  (https://your-solution-url.com](https://khalifaomeiza.github.io/3_column_preview_card/) 
+- Live Site URL:  (https://khalifaomeiza.github.io/3_column_preview_card/) 
 
 
 ### Built with
